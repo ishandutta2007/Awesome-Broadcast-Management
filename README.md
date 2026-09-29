@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Broadcast-Management?style=flat-square&color=blue" alt="Last Commit">
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Broadcast-Management?style=flat-square&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Broadcast-Management?style=flat-square&color=gold" alt="GitHub_Stars">
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Broadcast-Management?style=flat-square&color=green" alt="License">
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -61,7 +61,7 @@ The broadcast management software market is estimated at **$2.4B – $2.6B** in 
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated collection of active open-source repositories for self-hosting radio automation, television playout, stream management, and broadcast workflows, sorted by GitHub star count:
+Below is a curated collection of active open-source repositories for self-hosting radio automation, television playout, stream management, and broadcast workflows, sorted by GitHub Stars_Count:
 
 - **[OBS Studio](https://github.com/obsproject/obs-studio)**  
   [![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
@@ -124,7 +124,7 @@ Contributions are welcome! Please help keep this broadcast ecosystem list compre
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in `README.md` (following the existing layout and format).
-3. 📌 Include project name, homepage/GitHub link, factual description, and star badge / pricing information.
+3. 📌 Include project name, homepage/GitHub link, factual description, and Stars_Badge / pricing information.
 4. 📬 Submit a Pull Request with a clear explanation of your additions.
 
 ---
